@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Dawzy
 - 👀 I’m interested in Full Stack Web Development
-- 🌱 I’m currently learning React.js, Node.js, Bootstrap, and more!
+- 🌱 I’m currently learning the MERN Stackk
