@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @Dawzy
+- 👋 Hi, I’m David
 - 👀 I’m interested in Full Stack Web Development
 - 🌱 I’m currently learning the MERN Stackk
